@@ -1,0 +1,21 @@
+#WhiteBoard{
+    display: grid;
+  grid-template-columns: repeat(28, 10px); 
+
+    outline-style: calc();
+
+    width: 280px;
+    height: 400px;
+    background-color: gray;
+
+}
+
+.Circle{
+    border-radius: 50%;
+    background-color: white;
+    height: 10px;
+    width: 10px;
+}
+
+
+
